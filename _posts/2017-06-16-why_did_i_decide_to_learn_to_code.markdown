@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why did I decide to learn to code?""
-date:   2017-06-16 02:38:24 +0000
+date:   2017-06-15 22:38:25 -0400
 ---
 
 
