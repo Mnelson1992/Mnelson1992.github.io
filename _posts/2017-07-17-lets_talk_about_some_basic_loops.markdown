@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lets talk about some basic loops!"
-date:   2017-07-17 14:25:36 +0000
+date:   2017-07-17 10:25:37 -0400
 ---
 
 
