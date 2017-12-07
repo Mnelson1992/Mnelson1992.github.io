@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I Tried Not Too WINE About My Sinatra Portfolio Project Too Much"
-date:       2017-12-07 00:16:10 +0000
+date:       2017-12-06 19:16:11 -0500
 permalink:  i_tried_not_too_wine_about_my_sinatra_portfolio_project_too_much
 ---
 
